@@ -26,47 +26,13 @@ a:hover {
 	cursor: default;
 }
 
-.nav {
-	padding-top: 2.5%;
-	padding-left: 25%;
-	padding-right: 25%;
-	margin-bottom: -4.5%;
-}
-
-.nav .left {
-	text-align: left;
-	color: #777777;
-	font-size: 15px;
-}
-
-.nav .left:hover {
-	color: #16a085;
-}
-
-.nav .right {
-	float: right;
-	color: #777777;
-	font-size: 15px;
-	margin-left: 5%;
-}
-
-.nav .right:hover {
-	color: #16a085;
-}
-
-.nav .select {
-	float: right;
-	color: #bbbbbb;
-	font-size: 15px;
-	margin-left: 5%;
-}
 
 .head-banner {
 	text-align: center;
 	color: #16a085;
 	font-size: 50px;
 	line-height: 1.5em;
-	padding-top: 10%;
+	padding-top: 5%;
 }
 
 .message-banner {
@@ -74,7 +40,7 @@ a:hover {
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 8%;
+	padding-top: 5%;
 	padding-bottom: 10%;
 	width: 50%;
 	font-size: 20px;
@@ -83,114 +49,11 @@ a:hover {
 }
 
 .underline {
-	color: #777777;
+	color: #777777; 
 	border-bottom: 2px dotted #999999;
 }
 
 .underline:hover {
 	color: #16a085;
 	border-bottom: 2px dotted #16a085;
-}
-
-.title {
-	font-size: 20px;
-	color: #222222;
-	display: block;
-}
-
-.link:hover {
-	color: #16a085;
-}
-
-.subtitle {
-	font-size: 15px;
-	margin-top: -10px;
-	margin-bottom: 10px;
-	display: block;
-}
-
-.comment {
-	font-size: 15px;
-	line-height: 25px;
-}
-
-@media (max-width: 800px) {
-
-	.head-banner {
-		padding-top: 40%;
-		padding-bottom: 20%;
-		font-size: 40px;
-		line-height: 1.5em;
-	}
-
-	.message-banner {
-		padding-bottom: 30%;
-		font-size: 18px;
-		line-height: 1.8em;
-		width: 80%;
-		opacity: 1;
-	}
-
-	.nav {
-		padding-top: 5%;
-		padding-left: 10%;
-		padding-right: 10%;
-		margin-bottom: -9%;
-	}
-
-	.nav .right {
-		display: none;
-	}
-
-	.nav .select {
-		display: none;
-	}
-
-	.subtitle {
-		margin-top: -5px;
-	}
-}
-
-@media (min-width: 1300px) {
-
-	.nav {
-		padding-top: 3%;
-		padding-left: 25%;
-		padding-right: 25%;
-		margin-bottom: -4%;
-	}
-
-	.head-banner {
-		padding-top: 13%;
-	}
-
-	.message-banner {
-		padding-top: 8%;
-		padding-bottom: 10%;
-		width: 45%;
-	}
-
-}
-
-@media (min-width: 1900px) {
-
-	.nav {
-		padding-top: 3%;
-		padding-left: 25%;
-		padding-right: 25%;
-		margin-bottom: -4%;
-	}
-
-	.head-banner {
-		padding-top: 12%;
-	}
-
-	.message-banner {
-		padding-top: 9%;
-		padding-bottom: 12%;
-		width: 40%;
-	}
-
-}
-
 }

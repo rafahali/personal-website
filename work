@@ -1,0 +1,56 @@
+  <body>
+
+    <div class="nav">
+      <a href="../" class="left">&larr; Home</a>
+      <a href="../projects/" class="right">Projects</a>
+      <a href="https://medium.com/@joeyloi/latest" target="_blank" class="right">Writing</a>
+      <a href="http://goodreads.com/joeyloi" class="right" target="_blank">Reading</a>
+      <a class="select">Work</a>
+    </div>
+
+
+    <!-- Head banner -->
+
+    <div class="head-banner">
+        <span>Work</span>
+    </div>
+
+    <!-- Message Banner -->
+
+    <div class="message-banner">
+        <a href="http://dropbox.com" target="_blank" class="title"><span class="link">Dropbox</span></a>
+            <p class="subtitle">Product Manager, Current</p>
+            <p class="comment">I work on delivering mobile products that help teams collaborate and move shared work forward.</p>
+        <br>
+        <a href="http://yelp.com" target="_blank" class="title"><span class="link">Yelp</span></a>
+            <p class="subtitle">Product Manager Intern, Summer 2016</p>
+            <p class="comment">I worked on the Ads Backend team to scale offline ad attribution offerings.</p>
+        <br>
+        <a href="http://squareup.com" target="_blank" class="title"><span class="link">Square</span></a>
+            <p class="subtitle">Data Scientist Intern, Fall 2015</p>
+            <p class="comment">I analyzed data for the Seller Experience team to better understand sellers' behaviours, enable data driven product decisions, and build predictive models.</p>
+        <br>
+        <a href="http://shopify.com" target="_blank" class="title"><span class="link">Shopify</span></a>
+            <p class="subtitle">Product Analyst Intern, Winter 2015</p>
+            <p class="comment">I worked on Shopify's point of sale product, modeling and analyzing data to drive business intelligence and user behavior insights.</p>
+        <br>
+        <a href="http://facebook.com/business" target="_blank" class="title"><span class="link">Facebook</span></a>
+            <p class="subtitle">Market Strategist Intern, Summer 2014</p>
+            <p class="comment">I analyzed and presented data for the Canadian sales, marketing, and measurement teams to identify growth opportunities and inform business strategy.</p>
+        <br>
+        <a href="http://kaizena.com" target="_blank" class="title"><span class="link">Kaizena</span></a>
+            <p class="subtitle">Product Designer, Winter 2014</p>
+            <p class="comment">I joined a two person startup that's working to better enable teachers to give great feedback to students, leading a revamp of the web app and designing an entirely new work flow and interface.</p>
+        <br>
+        <a href="http://brightspace.com" target="_blank" class="title"><span class="link">Desire2Learn (Brightspace)</span></a>
+            <p class="subtitle">Product Designer Intern, Fall 2013</p>
+            <p class="comment">I worked in an agile scrum process, going from requirements through to high-fidelity mockups. I created delightful user experiences to help teachers better manage learning objects.</p>
+        <br>
+        <a href="http://upsight.com" target="_blank" class="title"><span class="link">Kontagent (Upsight)</span></a>
+            <p class="subtitle">Business Analyst Intern, Winter 2013</p>
+            <p class="comment">I worked with a small team to build out the user requirements and information architecture for a new technical documentation site.</p>
+    </div>
+
+    <!-- Footer banner -->
+
+  </body>

@@ -1,0 +1,41 @@
+
+  <body>
+
+    <div class="nav">
+      <a href="../" class="left">&larr; Home</a>
+      <a class="select">Projects</a>
+      <a href="https://medium.com/@joeyloi/latest" target="_blank" class="right">Writing</a>
+      <a href="http://goodreads.com/joeyloi" target="_blank" class="right">Reading</a>
+      <a href="../work/" class="right">Work</a>
+    </div>
+
+
+    <!-- Head banner -->
+
+    <div class="head-banner">
+        <span>Projects</span>
+    </div>
+
+    <!-- Message Banner -->
+
+    <div class="message-banner">
+        <a href="https://medium.com/@joeyloi/systems-design-engineering-2017-class-profile-8bbe8847e8c7" target="_blank" class="title"><span class="link">SYDE 2017 Class Profile</span></a>
+            <p class="subtitle"></p>
+            <p class="comment">My friend Atef Chaudhury and I worked with our classmates to create a profile of our graduating cohort. We designed a survey that covered a broad range of topics, including school, co-op, relationships, sex and drugs, and our futures. The result was something pretty cool- a comprehensive, quantitative account of who we had become over our five year undergrad careers. Here's a <a href="https://medium.com/@joeyloi/systems-design-engineering-2017-class-profile-8bbe8847e8c7" target="_blank" class="underline">post that summarizes some key takeaways</a>, and if you're into it, a <a href="https://joeyloi.com/SYDE2017classprofile/" target="_blank" class="underline">beautiful 91 pages of great data</a>. Featured in the <a href="https://beta.theglobeandmail.com/news/national/as-experiential-learning-grows-line-between-academia-and-industry-blurs/article36148784/?ref=http://www.theglobeandmail.com&" target="_blank" class="underline">Globe and Mail</a>.</p>
+        <br>
+        <a href="http://onthewaypodcast.com" target="_blank" class="title"><span class="link">On the Way</span></a>
+            <p class="subtitle"></p>
+            <p class="comment">Together with my good friend <a href="http://valentin.tsatsk.in/" target="_blank" class="underline"><span class="link">Val</span></a>, we worked on a podcast about the places near and dear to our hearts. I really enjoy listening to podcasts (99% Invisible, Revisionist History, and Longform are a few of my favourites) and have always wanted to be a journalist, so this was a fun project where I got to find and tell a great story. Listen to the episode <a href="https://soundcloud.com/onthewaypodcast/jason-sekiguchi" target="_blank" class="underline">here</a>.</p>
+        <br>
+        <a href="http://humansofshopify.tumblr.com" target="_blank" class="title"><span class="link">Humans of Shopify</span></a>
+            <p class="subtitle"></p>
+            <p class="comment">I feel that the best kept secret about Shopify is the diversity of the people who work here. A small team of us worked to share stories to show just how vibrant and rich the culture is. This was part of a hack days project.</p>
+        <br>
+        <a class="title"><span>Classtronaut</span></a>
+            <p class="subtitle"></p>
+            <p class="comment">Coming out of high school, I was frustrated with how disconnected my education felt from the real world. My most valuable learning came from things I worked on outside of school, and so I wanted to bring real world projects into high school classrooms. I partnered with an NGO and two world issues classes to run a pilot for a project where students helped the NGO develop resources to educate youth in developing communities about health and social issues.</p>
+    </div>
+
+    <!-- Footer banner -->
+
+  </body>
